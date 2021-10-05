@@ -5,8 +5,17 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:P1_AP1_Alvaro_20190269"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Primer Parcial de Aplicada 1" Height="450" Width="400">
     <Grid>
-
+        <StackPanel>
+            <Menu Height="20">
+                <MenuItem Header="Registros">
+                    <MenuItem x:Name="Aportes_MenuItem" Header="Registro de Aportes" Click="Aportes_MenuItem_Click"/>
+                </MenuItem>
+                <MenuItem Header="Consultas">
+                    <MenuItem x:Name="ConsultaAportes_MenuItem" Header="Consulta de Aportes" Click="ConsultaAportes_MenuItem_Click"/>
+                </MenuItem>
+            </Menu>
+        </StackPanel>
     </Grid>
 </Window>

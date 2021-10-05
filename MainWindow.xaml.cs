@@ -24,5 +24,15 @@ namespace P1_AP1_Alvaro_20190269
         {
             InitializeComponent();
         }
+
+        private void Aportes_MenuItem_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void ConsultaAportes_MenuItem_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

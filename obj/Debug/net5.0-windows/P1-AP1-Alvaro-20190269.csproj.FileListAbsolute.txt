@@ -57,3 +57,4 @@ C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\P1-AP1-Alvaro-20190269\ob
 C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\P1-AP1-Alvaro-20190269\obj\Debug\net5.0-windows\ref\P1-AP1-Alvaro-20190269.dll
 C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\P1-AP1-Alvaro-20190269\obj\Debug\net5.0-windows\P1-AP1-Alvaro-20190269.pdb
 C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\P1-AP1-Alvaro-20190269\obj\Debug\net5.0-windows\P1-AP1-Alvaro-20190269.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\P1-AP1-Alvaro-20190269\bin\Debug\net5.0-windows\DATA\TeacherControl.db
