@@ -21,7 +21,7 @@
             </StackPanel>
             
             <Label Content="Fecha:"/>
-            <DatePicker x:Name="Fecha_DatePicker" SelectedDate="{Binding Fecha}" SelectedDateFormat="Long" Width="150" HorizontalAlignment="Left" Margin="5,0,0,0"/>
+            <DatePicker x:Name="Fecha_DatePicker" SelectedDate="{Binding Fecha}" SelectedDateFormat="Short" Width="150" HorizontalAlignment="Left" Margin="5,0,0,0"/>
             <Label Content="Persona:"/>
             <TextBox x:Name="Persona_TextBox" Width="300" HorizontalAlignment="Left" Margin="5,0,0,0" Text="{Binding Persona}"/>
             <Label Content="Concepto:"/>
