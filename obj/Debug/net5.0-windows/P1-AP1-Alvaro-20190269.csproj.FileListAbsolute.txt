@@ -58,3 +58,12 @@ C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\P1-AP1-Alvaro-20190269\ob
 C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\P1-AP1-Alvaro-20190269\obj\Debug\net5.0-windows\P1-AP1-Alvaro-20190269.pdb
 C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\P1-AP1-Alvaro-20190269\obj\Debug\net5.0-windows\P1-AP1-Alvaro-20190269.genruntimeconfig.cache
 C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\P1-AP1-Alvaro-20190269\bin\Debug\net5.0-windows\DATA\TeacherControl.db
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\P1-AP1-Alvaro-20190269\bin\Debug\net5.0-windows\Resources\delete-icon.png
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\P1-AP1-Alvaro-20190269\bin\Debug\net5.0-windows\Resources\File-new-icon.png
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\P1-AP1-Alvaro-20190269\bin\Debug\net5.0-windows\Resources\floppy-icon.png
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\P1-AP1-Alvaro-20190269\bin\Debug\net5.0-windows\Resources\search-icon.png
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\P1-AP1-Alvaro-20190269\obj\Debug\net5.0-windows\UI\Registros\rAportes.g.cs
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\P1-AP1-Alvaro-20190269\obj\Debug\net5.0-windows\P1-AP1-Alvaro-20190269_Content.g.cs
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\P1-AP1-Alvaro-20190269\obj\Debug\net5.0-windows\UI\Registros\rAportes.baml
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\P1-AP1-Alvaro-20190269\obj\Debug\net5.0-windows\P1_AP1_Alvaro_20190269.Properties.Resources.resources
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\P1-AP1-Alvaro-20190269\obj\Debug\net5.0-windows\P1-AP1-Alvaro-20190269.csproj.GenerateResource.cache
