@@ -149,27 +149,5 @@ namespace P1_AP1_Alvaro_20190269.BLL
             }
             return lista;
         }
-
-        public static List<Aportes> GetAporte()
-        {
-            List<Aportes> lista = new List<Aportes>();
-            Contexto contexto = new Contexto();
-
-            try
-            {
-                lista = contexto.Aportes.ToList();
-            }
-            catch (Exception)
-            {
-
-                throw;
-            }
-            finally
-            {
-                contexto.Dispose();
-            }
-
-            return lista;
-        }
     }
 }

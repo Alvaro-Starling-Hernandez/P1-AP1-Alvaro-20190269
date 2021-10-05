@@ -91,6 +91,7 @@ namespace P1_AP1_Alvaro_20190269.UI.Registros
 
             if (paso)
             {
+                Limpiar();
                 MessageBox.Show("Transacion Exitosa", "Exito", MessageBoxButton.OK, MessageBoxImage.Information);
             }
             else

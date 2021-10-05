@@ -1,4 +1,5 @@
 ﻿using P1_AP1_Alvaro_20190269.UI.Consultas;
+using P1_AP1_Alvaro_20190269.UI.Registros;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -24,18 +25,19 @@ namespace P1_AP1_Alvaro_20190269
         public MainWindow()
         {
             InitializeComponent();
-            cAportes c = new cAportes();
-            c.Show();
+            
         }
 
         private void Aportes_MenuItem_Click(object sender, RoutedEventArgs e)
         {
-
+            rAportes r = new rAportes();
+            r.Show();
         }
 
         private void ConsultaAportes_MenuItem_Click(object sender, RoutedEventArgs e)
         {
-
+            cAportes c = new cAportes();
+            c.Show();
         }
     }
 }
