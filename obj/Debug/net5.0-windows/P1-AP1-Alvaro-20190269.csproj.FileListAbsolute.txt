@@ -67,3 +67,5 @@ C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\P1-AP1-Alvaro-20190269\ob
 C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\P1-AP1-Alvaro-20190269\obj\Debug\net5.0-windows\UI\Registros\rAportes.baml
 C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\P1-AP1-Alvaro-20190269\obj\Debug\net5.0-windows\P1_AP1_Alvaro_20190269.Properties.Resources.resources
 C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\P1-AP1-Alvaro-20190269\obj\Debug\net5.0-windows\P1-AP1-Alvaro-20190269.csproj.GenerateResource.cache
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\P1-AP1-Alvaro-20190269\obj\Debug\net5.0-windows\UI\Consultas\cAportes.g.cs
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\P1-AP1-Alvaro-20190269\obj\Debug\net5.0-windows\UI\Consultas\cAportes.baml
