@@ -14,7 +14,7 @@ namespace P1_AP1_Alvaro_20190269.BLL
     {
         public static bool Guardar(Aportes aporte)
         {
-            if (!Existe(aporte.AporteID))
+            if (!Existe(aporte.AporteId))
                 return Insertar(aporte);
             else
                 return Modificar(aporte);
@@ -96,7 +96,7 @@ namespace P1_AP1_Alvaro_20190269.BLL
             bool encontrado = false;
             try
             {
-                encontrado = contexto.Aportes.Any(e => e.AporteID == id);
+                encontrado = contexto.Aportes.Any(e => e.AporteId == id);
             }
             catch (Exception)
             {
