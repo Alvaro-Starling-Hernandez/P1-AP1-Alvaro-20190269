@@ -62,7 +62,7 @@
                 <TextBox x:Name="ConteoTextBox" Width="80" Height="22" IsEnabled="False"/>
 
                 <Label Content="Total:" Margin="145,0,0,0"/>
-                <TextBox x:Name="TotalTextBox" Width="150" Height="22" IsEnabled="False"/>
+                <TextBox x:Name="TotalTextBox" Width="150" Height="22" IsEnabled="False" TextAlignment="Right"/>
             </StackPanel>
         </StackPanel>
         

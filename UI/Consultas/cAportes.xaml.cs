@@ -59,7 +59,7 @@ namespace P1_AP1_Alvaro_20190269.UI.Consultas
             ConteoTextBox.Text = ""+ conteo;
 
             var Total = listado.Sum(x => x.Monto);
-            TotalTextBox.Text = "" + Total;
+            TotalTextBox.Text =Total.ToString("N2");
         }
     }
 }
